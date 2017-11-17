@@ -1,9 +1,0 @@
-﻿1) The biggest change in mean temperature happened in the period between 1996-1998. The delta in mean temperature was 35. 1996 had a mean temperature of 49. 1997 had a mean temperature of 34. 1998 had a mean temperature of 28.
-2) On average the hottest month is June clocking in at about 90 degrees F.
-3) The greatest delta between high and low temps is June with a delta of 69 as a min and 90 as a max. However there is a human line that make February harder to dress for. It is a min of 42 and a max of 63.
-4) On average the month with the most precipitation is March with an average 0.48 in of precipitation.
-5) Across the data we have had more days below average precipitation with 6987 days above average and only 2041 days with above average precipitation.
-6) On average DC has been getting hotter.
-Bonus A) The weather has on average gotten a little bit more extreme in more recent years. I am defining extreme using two different criteria, the difference between min and max temperature with a larger amount of precipitation. The delta between the min and max averaged across each year. The deltas have increased, but the precipitation across the year has mostly just fluctuated across years.
-Bonus B) On Thanksgiving the max temp will be 53 deg F and the min temp will be 37 deg f.
-Bonus C) There have only been a total of three Christmases with frozen precipitation in the past 25 years. 
